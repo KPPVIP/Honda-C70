@@ -1,0 +1,9 @@
+#models Gtasan 
+
+Tuning Extra1 Extra4 Extra9
+
+
+[Openiv] install open eiditmode x64e.rpf\levels\gta5\vehicles.rpf\ Replace file.
+
+
+Sorry for English.
